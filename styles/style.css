@@ -46,7 +46,7 @@ ol {
   list-style: none;
 }
 
-/* Настройка полосы прокрутки*/
+/* Кастомный скроллбар */
 .content__list-container::-webkit-scrollbar {
   width: 4px;
 }
